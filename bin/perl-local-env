@@ -83,7 +83,7 @@ This tool is redistributable under the same terms as perl itself.
 use strict;
 use warnings;
 
-our $VERSION = 0.01;
+our $VERSION = 0.03;
 
 BEGIN {
     # Load local::lib without calling ->import
